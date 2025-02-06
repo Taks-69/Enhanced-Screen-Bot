@@ -1,0 +1,4 @@
+nextcord==2.6.0
+opencv-python==4.10.0.84
+mss==9.0.2
+asyncio==3.4.3
