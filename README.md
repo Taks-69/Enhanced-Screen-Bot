@@ -6,11 +6,11 @@ This bot is designed to **capture screenshots and camera images** and send them 
 
 ## 🚀 Features
 
-✅ **Automated Screen & Camera Capture** – Takes periodic screenshots and camera images
-✅ **Dynamic Channel Creation** – Automatically creates dedicated Discord channels
-✅ **Remote Control via Commands** – Start, stop, and set capture frequency via Discord
-✅ **Multi-Screen Support** – Captures multiple monitors
-✅ **Optimized for Nextcord** – Uses the latest Discord API
+✅ **Automated Screen & Camera Capture** – Takes periodic screenshots and camera images \
+✅ **Dynamic Channel Creation** – Automatically creates dedicated Discord channels \
+✅ **Remote Control via Commands** – Start, stop, and set capture frequency via Discord \
+✅ **Multi-Screen Support** – Captures multiple monitors \
+✅ **Optimized for Nextcord** – Uses the latest Discord API \
 
 ---
 
